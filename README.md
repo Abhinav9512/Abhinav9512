@@ -15,7 +15,7 @@ Highly motivated software engineer with experience in developing and maintaining
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhinav9512&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Every Deceloper can relate to it ig
+### 😂 Every Developer can relate to it ig
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
